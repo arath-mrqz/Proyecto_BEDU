@@ -7,6 +7,7 @@
 -Benitez Garcia Saul Enrique  
 -Enríquez López José Andrés  
 -Juárez Fonseca César Eduardo
-
+ 
+### [Postwork 6 (APIS)](https://github.com/arath-mrqz/Proyecto_python_BEDU/blob/main/Postwork_6_Automatizaci%C3%B3n_y_APIs.ipynb)
 
 ![alt text](https://www.magisnet.com/wp-content/uploads/2020/05/online-forever.jpg)
